@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**sachinkamath/sachinkamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachinkamath/sachinkamath/master/hacktheplanet.gif">
+</p>
 
 Here are some ideas to get you started:
 
