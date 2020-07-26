@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/sachinkamath/sachinkamath/master/hacktheplanet.gif">
 </p>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
