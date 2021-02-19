@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pwnfoo/pwnfoo/master/hack.gif">
+  <img width=50% src="https://raw.githubusercontent.com/pwnfoo/pwnfoo/master/hack.gif">
 </p>
 
 <!--
